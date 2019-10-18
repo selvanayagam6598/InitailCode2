@@ -13,5 +13,6 @@ System.out.println("speed is 130km");
 		Ktm r=new Ktm();
 		r.cost();
 		r.speed();
+		System.out.println("selva");
 	}
 }
